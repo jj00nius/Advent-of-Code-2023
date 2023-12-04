@@ -1,3 +1,7 @@
+""" TODO: 
+- Model Part 2 to follow the same structure as Part 1
+"""
+
 import re
 
 # Read lines from the input file and store them in a list
